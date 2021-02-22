@@ -1,0 +1,31 @@
+body{
+    background-color: #2e59d9;
+}
+.form-login{
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 35%;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.content{
+    padding: 10px 10px 10px 10px;
+}
+.content h4{
+    margin-left: 10px;
+}
+.form-login-input{
+    margin-left: -32%;
+    border-radius: 20px;
+    width: 430px;
+}
+.login-btn{
+    background-color: #2e59d9;
+    color: white;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: -42%;
+}
+
+
